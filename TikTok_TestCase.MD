@@ -1,30 +1,3 @@
-# Template Test Case.
-Test Case ID: 
-
-Title: 
-
-Requirement: 
-
-Test Type: 
-
-Preconditions: 
-- 
-
-Test Steps: 
-1. 
-
-Test Data: 
-- 
-
-Expected Result: 
-- 
-
-Priority: 
-
-
-
-
-
 # Test Case 1. 
 Test Case ID: TC_UPLOAD_001
 
